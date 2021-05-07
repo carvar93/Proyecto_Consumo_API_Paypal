@@ -1,0 +1,12 @@
+﻿.campos {
+    background:#222;
+    height:250px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 10px; 
+    color:#fff;
+}
+
+.campos:hover {
+    opacity:0.7;
+}

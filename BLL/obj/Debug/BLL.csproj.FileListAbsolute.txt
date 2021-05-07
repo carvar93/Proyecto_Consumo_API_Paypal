@@ -1,0 +1,126 @@
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.pdb
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.pdb
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.pdb
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\BLL.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\BLL.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\BLL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\DAL.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\DataAccess.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\DAL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\DataAccess.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\obj\Debug\BLL.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\BLL\obj\Debug\BLL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\obj\Debug\BLL.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\obj\Debug\BLL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\BLL.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\BLL.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\BLL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\DAL.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\DataAccess.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\DAL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\DataAccess.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\DataAccess.dll.config
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\BLL\obj\Debug\BLL.csproj.CopyComplete

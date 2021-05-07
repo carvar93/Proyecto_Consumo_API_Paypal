@@ -1,0 +1,67 @@
+﻿
+@{
+    /**/
+
+    ViewBag.Title = "InformacionCompra";
+}
+@section css{
+
+    <link href="~/Estilos/RegistroPage.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+}
+
+
+@*<div class="card bg-dark">
+    <div class="card-header">
+        <img src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-4.png" style="width:290px;height:auto;" alt="PayPalIMG" />
+    </div>
+    <form class="card-body" id="frm" autocomplete="off" method="post">
+        <h1>Paypal</h1>
+        <h2>Informacion de la Compra</h2>
+        <h3>Solicitud de pago desde la web Godd</h3>
+        <br />
+    </form>
+</div>*@
+
+    <section id="about">
+
+        <div class="container">
+
+            <div class="row about-container">
+
+                <div class="col-lg-6 content order-lg-1 order-2">
+
+                    <img src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-4.png" style="width:290px;height:auto;" alt="PayPalIMG" />
+                    <br />
+                    <br />
+                    <br />
+                    <div class="icon-box wow fadeInUp">
+                        <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+                        <h4 class="title"><a href="">Información de Compra</a></h4>
+                        <p class="description">Transacción realizada por web</p>
+                    </div>
+
+                    <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="icon"><i class="fa fa-photo"></i></div>
+                        <h4 class="title"><a href="">Solicitud de pago</a></h4>
+                        <p class="description">Web Godd Tienda de Videojuegos</p>
+                    </div>
+
+                    <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                        <h4 class="title"><a href="">Producto</a></h4>
+                        <p class="description">Licencia de videojuego digital</p>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+            @using (Html.BeginForm("Pagar", "Factura", FormMethod.Post))
+            {<p><button type="submit" class="btn btn-default">Pagar Ahora</button> </p>
+            }
+        </div>
+    </section><!-- #about -->
+

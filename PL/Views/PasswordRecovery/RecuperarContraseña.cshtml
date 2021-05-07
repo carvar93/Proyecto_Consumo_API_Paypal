@@ -1,0 +1,33 @@
+﻿@model UI.Models.ViewModels.PasswordRecoveryViewModel
+@{
+    ViewBag.Title = "RecuperarContraseña";
+}
+
+
+@if (ViewBag.message != null)
+{
+    <div class="mt-5 alert alert-info alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.message</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+
+<div class="container pt-5 text-white text-center">
+    <div class="col-md-4 mx-auto">
+        <div class="card bg-dark">
+            <form action="@Url.Content("~/PasswordRecovery/RecuperarContraseña")" method="post" class="container">
+                <label class="mt-4 mb-4">Escribe tu correo electónico</label>
+                <div class="form-group">
+                    @Html.TextBoxFor(d => d.Email, null, new { @class = "form-control border-0" })
+                    @Html.ValidationMessageFor(d => d.Email, null, new { @class = "text-danger" })
+                </div>
+                <button type="submit" id="btn_cambiar" class="btn btn-secondary btn-block mb-3">Recuperar</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+

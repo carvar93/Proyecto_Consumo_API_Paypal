@@ -1,0 +1,77 @@
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\source\repos\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\Proyecto1\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Documents\JOSE ANDRES\UAM\PROGRAMACION\PROGRAMACION AVANZADA\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.dll
+C:\Users\cavu9\Downloads\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.dll
+C:\Users\cavu9\Downloads\Proyeto1Api\ProyectoAeronavesMVC (1)\ProyectoAeronavesMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\bin\Debug\DAL.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\bin\Debug\DAL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\obj\Debug\DAL.dll
+C:\Users\cavu9\OneDrive\Escritorio\Proyecto gog\ProyectoGOG\DAL\obj\Debug\DAL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\bin\Debug\DAL.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\bin\Debug\DAL.pdb
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\obj\Debug\DAL.dll
+C:\Users\cavu9\OneDrive\Escritorio\2da opcion\ProyectoGOG\DAL\obj\Debug\DAL.pdb

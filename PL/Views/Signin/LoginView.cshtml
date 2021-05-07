@@ -1,0 +1,53 @@
+﻿
+@{
+    /**/
+
+    ViewBag.Title = "Login";
+}
+
+
+<div class="container pt-5 text-white text-center">
+    <div class="col-md-6  mx-auto">
+        <div class="card bg-dark">
+            <div class="card-header">
+                <img src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-4.png" style="width:290px;height:auto;" alt="PayPalIMG" />
+            </div>
+            <form class="card-body" id="frm" autocomplete="off" method="post">
+                <h3 class="pb-3">Iniciar Sesión</h3>
+                <div class="form-group">
+                    <input class="border-0 form-control" type="text" name="user" placeholder="Usuario" />
+                </div>
+                <div class="form-group">
+                    <input class="border-0 form-control" type="password" placeholder="Contraseña" name="pass" />
+                </div>
+                <button type="submit" class="btn btn-secondary btn-block mb-3">Iniciar Sesión</button>
+                @Html.ActionLink("Olvidaste tu contraseña?", "RecuperarContraseña", "PasswordRecovery")
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+    <script>
+    $(document).ready(function () {
+
+        $("#frm").submit(function (e) {
+            e.preventDefault();
+
+            url = "@Url.Content("~/Signin/Login")"
+            parametros = $(this).serialize();
+
+            $.post(url, parametros, function (data) {
+                if (data == "1") {
+                document.location.href = "@Url.Content("~/")"
+                } else {
+                alert(data);
+                }
+            })
+
+        })
+
+    })
+    </script>
+}

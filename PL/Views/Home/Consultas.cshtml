@@ -1,0 +1,110 @@
+﻿
+@{
+    ViewBag.Title = "Consultas";
+}
+
+@section css{
+
+    <link href="~/Estilos/ConsultasPage.css" rel="stylesheet" />
+
+}
+
+
+@*<div class=" container">
+    <div class="row">
+        <h2 class="text-center">Consultas </h2>
+    </div>
+
+</div>
+<br />
+<br />
+<div class="container ">
+
+    <div class="row">
+
+        <div class="col-md-6 componente">
+
+            <button onclick='document.location = "../Usuario/ListarUsuariosPorEstado"' class="componente form-control">
+                <div>
+                    <h2 class="text-center">Usuarios </h2>
+                </div>
+            </button>
+        </div>
+
+        <div class="col-md-6 componente">
+
+            <button onclick='document.location = "../Aeronave/ListarAeronavesPorEstado"' class="componente form-control ">
+                <div>
+                    <h2 class="text-center">Aeronaves por Estados</h2>
+                </div>
+            </button>
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-md-6 componente">
+
+            <button onclick='document.location = "../Aeronave/ListarAeronavesConObservaciones"' class="componente form-control">
+                <div>
+                    <h2 class="text-center">Aeronaves con Observaciones Prioritarias</h2>
+                </div>
+            </button>
+        </div>
+
+
+        <div class="col-md-6 ">
+            <button onclick='document.location = "../Aeronave/ListarAeronavesConDesperfectos"' class="componente form-control">
+                <div>
+                    <h2 class="text-center">Aeronaves con Desperfectos</h2>
+                </div>
+            </button>
+        </div>
+    </div>
+
+</div>*@
+
+<section id="services">
+    <div class="container wow fadeIn">
+        <div class="section-header">
+            <h3 class="section-title">Consultas</h3>
+            <p class="section-description"></p>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="box">
+                    <div class="icon"><a href=""><i class="fa fa-desktop"></i></a></div>
+                    <h3 class="title"><a href="../Usuario/ListarUsuariosPorEstado">Usuarios</a></h3>
+                    <p class="description">Consultar Usuarios por Estados</p>
+
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="box">
+                    <div class="icon"><a href=""><i class="fa fa-desktop"></i></a></div>
+                    <h4 class="title"><a href="../Aeronave/ListarAeronavesPorEstado">Aeronaves Estado</a></h4>
+                    <p class="description">Consultar Aeronaves por Estados</p>
+
+                </div>
+            </div>
+           
+            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="box">
+                    <div class="icon"><a href=""><i class="fa fa-photo"></i></a></div>
+                    <h4 class="title"><a href="../Aeronave/ListarAeronavesConObservaciones">Aeronaves Observaciones</a></h4>
+                    <p class="description">Listar Aeronaves por Observaciones</p>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="box">
+                    <div class="icon"><a href=""><i class="fa fa-road"></i></a></div>
+                    <h4 class="title"><a href="../Aeronave/ListarAeronavesConDesperfectos">Aeronaves con Desperfectos</a></h4>
+                    <p class="description">Consulta de Aeronaves con desperfectos</p>
+                </div>
+            </div>
+            
+        </div>
+
+    </div>
+</section><!-- #services -->

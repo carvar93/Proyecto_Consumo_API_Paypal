@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DAL.Catalogos.VitacoraDAL>
+
+@{
+    ViewBag.Title = "ListarVitacora";
+}
+<br />
+<h1 class="text-center text-white">Vitacora de acciones en PayPal</h1>
+<br />
+<table class="table table-dark table-hover ">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Accion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Observacion)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Accion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Observacion)
+        </td>
+    </tr>
+}
+
+</table>
